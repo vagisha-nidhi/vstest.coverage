@@ -20,10 +20,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeCoverageReader", "src\C
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeCoverageReaderTests", "src\CodeCoverageToLcovConverterTests\CodeCoverageReaderTests.csproj", "{815DD963-BBFE-453F-9DFB-CD24577A4006}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LcovGenerator", "LcovGenerator\LcovGenerator.csproj", "{F378FA63-1E6A-4C12-9B93-30E9A1C5BFBB}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LcovGeneratorTests", "LcovGeneratorTests\LcovGeneratorTests.csproj", "{BEF882B4-3094-4762-9176-E0C8AD7372CA}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
