@@ -39,8 +39,7 @@ namespace LcovGeneratorTests
             foreach(var modelData in expecedLcovModelData)
             {
                 CollectionAssert.AreEqual(expecedLcovModelData[modelData.Key], actualLcovModelData.Data[modelData.Key]);
-            }
-            actualLcovModelData.ToString();          
+            }      
         }
 
         [TestMethod]
